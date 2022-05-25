@@ -1,0 +1,17 @@
+#h1{
+    width: 100%;
+    margin-top: 0%;
+    font-size: large;
+
+}
+body{
+text-align: center;
+background-position: center;
+background-size: cover;
+}
+canvas{
+    border: 1px solid white;
+    border-color: red;
+    border-radius: 1px;
+    margin-top: 100px;
+}
